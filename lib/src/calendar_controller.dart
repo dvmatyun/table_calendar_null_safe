@@ -1,7 +1,7 @@
 //  Copyright (c) 2019 Aleksander Woźniak
 //  Licensed under Apache License v2.0
 
-part of table_calendar;
+part of table_calendar_null_safe;
 
 const double _dxMax = 1.2;
 const double _dxMin = -1.2;

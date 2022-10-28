@@ -1,7 +1,7 @@
 //  Copyright (c) 2019 Aleksander Woźniak
 //  Licensed under Apache License v2.0
 
-library table_calendar;
+library table_calendar_null_safe;
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';

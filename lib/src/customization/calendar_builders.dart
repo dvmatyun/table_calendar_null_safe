@@ -1,7 +1,7 @@
 //  Copyright (c) 2019 Aleksander Woźniak
 //  Licensed under Apache License v2.0
 
-part of table_calendar;
+part of table_calendar_null_safe;
 
 /// Main Builder signature for `TableCalendar`. Contains `date` and list of all `events` associated with that `date`.
 /// Note that most of the time, `events` param will be ommited, however it is there if needed.
