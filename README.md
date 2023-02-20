@@ -21,7 +21,7 @@ Add to pubspec.yaml:
 
 ```yaml
 dependencies:
-  table_calendar_null_safe: ^2.3.3
+  table_calendar_null_safe: ^2.0.0
 ```
 
 Then import it to your project:
